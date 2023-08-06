@@ -5,6 +5,7 @@ namespace MultiWebViewTool
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Hello");
         }
     }
 }
